@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Sou o Munhoz 👋
 
 <!--
 **GuMunhoz/GuMunhoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :computer: Assistente de TI  :house_with_garden: Brasileiro :earth_americas: SP
+
+## Encontre me por aqui : :mag:
+<h3>
+    <a href="https://www.linkedin.com/in/gustavo-munhoz-b70613b6/">Linkedin :necktie:</a>
+ </h3>
+
+<h3>
+    <a href="https://www.instagram.com/guh_munhoz/?hl=pt-br">Instagram :camera: </a>
+ </h3>
+ 
+ :books: Estudando Desenvolvimento Web Full Stack 
+ :mortar_board: Graduado em Análise e desenvolvimento de Sistemas
+ :guardsman: Militar da reserva , afinal " UMA VEZ PE, SEMPRE PE!" :sunglasses:
+  :runner:  Meu hobby é praticar atividades físicas , e curtir uma praia!!! :surfer:
