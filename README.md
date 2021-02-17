@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :computer: Assistente de TI  :house_with_garden: Brasileiro :earth_americas: SP
+- :computer: Analista de Sistemas Jr.  :house_with_garden: Brasileiro :earth_americas: SP
 
 ## Encontre me por aqui : :mag:
 <h3>
