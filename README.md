@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/guh_munhoz/?hl=pt-br">Instagram :camera: </a>
  </h3>
  
- - :books: Estudante de desenvolvimento Web Full Stack 
+ - :books: Desenvolvedor Front-end
  - :mortar_board: Graduado em Análise e desenvolvimento de Sistemas
- - :guardsman: Militar da reserva , afinal " UMA VEZ PE, SEMPRE PE!" :sunglasses:
+ - :guardsman: Militar da reserva, "UMA VEZ PE, SEMPRE PE!" :sunglasses:
  - :runner:  Meu hobby é praticar atividades físicas , e curtir uma praia!!! :surfer:
