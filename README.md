@@ -29,4 +29,4 @@ Here are some ideas to get you started:
  - :books: Desenvolvedor Front-end
  - :mortar_board: Graduado em Análise e desenvolvimento de Sistemas
  - :guardsman: Militar da reserva, "UMA VEZ PE, SEMPRE PE!" :sunglasses:
- - :runner:  Meu hobby é praticar atividades físicas , e curtir uma praia!!! :surfer:
+ - :runner:  Meu hobby é praticar atividades física , e curtir uma praia!!! :surfer:
