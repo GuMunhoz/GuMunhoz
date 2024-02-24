@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :computer: Desenvolvedor front-end  :house_with_garden: Brasileiro :earth_americas: SP
+- :computer: Desenvolvedor front-end :earth_americas: Brasileiro   :house_with_garden: SP
 
 ## Encontre me por aqui : :mag:
 <h3>
@@ -26,7 +26,10 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/guh_munhoz/?hl=pt-br">Instagram :camera: </a>
  </h3>
  
- - :books: Desenvolvedor Front-end
  - :mortar_board: Graduado em Análise e desenvolvimento de Sistemas
  - :guardsman: Militar da reserva, "UMA VEZ PE, SEMPRE PE!" :sunglasses:
- - :runner:  Meu hobby é praticar atividades física , e curtir uma praia!!! :surfer:
+ - :runner:  Meu hobby é praticar atividades física e curtir uma praia!!! :surfer:
+
+  ⚠️Te garanto que a quantidade dos meus PRs criados no respositório corporativo está maior que o dessa lista... 😅
+
+   [![card](https://github-readme-stats.vercel.app/api?username=GuMunhoz&theme=radical&show_icons=true)](https://github.com/GuMunhoz/github-readme-stats)
