@@ -30,6 +30,6 @@ Here are some ideas to get you started:
  - :guardsman: Militar da reserva, "UMA VEZ PE, SEMPRE PE!" :sunglasses:
  - :runner:  Meu hobby é praticar atividades física e curtir uma praia!!! :surfer:
 
-  ⚠️Te garanto que a quantidade dos meus PRs criados no respositório corporativo está maior que o dessa lista... 😅
+  ⚠️Te garanto que a quantidade dos meus PRs criados no repositório corporativo está maior que o dessa lista... 😅
 
    [![card](https://github-readme-stats.vercel.app/api?username=GuMunhoz&theme=radical&show_icons=true)](https://github.com/GuMunhoz/github-readme-stats)
